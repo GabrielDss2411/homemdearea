@@ -46,7 +46,7 @@ const ProblemSolution = () => {
 
             <div className="relative">
               <img 
-                src="/image/image2.jpg" 
+                src="https://github.com/GabrielDss2411/homemdearea/blob/main/image/image2.jpg?raw=true" 
                 alt="Trabalhadores offshore qualificados"
                 className="rounded-lg shadow-lg w-full"
               />

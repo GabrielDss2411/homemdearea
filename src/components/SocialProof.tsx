@@ -7,21 +7,21 @@ const SocialProof = () => {
       role: "Soldador Offshore - Petrobras",
       content: "Estava desempregado há 8 meses. Depois do curso, consegui minha vaga em 45 dias. Hoje ganho R$ 12.000 por mês trabalhando offshore.",
       rating: 5,
-      image: "/image/maninho.jpg"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/maninho.jpg?raw=true"
     },
     {
       name: "Julio 'Julinho'",
       role: "Técnico de Segurança - BW Offshore",
       content: "O curso me deu toda base que eu precisava. As certificações incluídas foram fundamentais. Recomendo para quem quer mudar de vida.",
       rating: 5,
-      image: "/image/julio.jpg"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/julio.jpg?raw=true"
     },
     {
       name: "Sidney Ricardo 'Trovão'",
       role: "Operador de Plataforma - Equinor",
       content: "Sem experiência nenhuma no mar, hoje sou operador em uma das maiores empresas do setor. O curso realmente funciona!",
       rating: 5,
-      image: "/image/trovao.png"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/trovao.png?raw=true"
     }
   ];
 
@@ -112,7 +112,7 @@ const SocialProof = () => {
 
               <div className="relative">
                 <img 
-                  src="/image/ivan.jpg" 
+                  src="https://github.com/GabrielDss2411/homemdearea/blob/main/image/ivan2.jpeg?raw=true" 
                   alt="Ivan Instrutor"
                   className="rounded-lg w-full opacity-90"
                 />

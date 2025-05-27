@@ -77,7 +77,7 @@ const CoursePresentation = () => {
 
             <div className="relative">
               <img 
-                src="/image/happy.jpg" 
+                src="https://github.com/GabrielDss2411/homemdearea/blob/main/image/happy.jpg?raw=true" 
                 alt="Profissional offshore certificado"
                 className="rounded-lg shadow-lg w-full"
               />
