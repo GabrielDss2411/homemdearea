@@ -15,7 +15,7 @@ const Hero = ({ onCtaClick }: HeroProps) => {
       <div 
         className="absolute inset-0 opacity-10"
         style={{
-          backgroundImage: "url('/image/bakground-b1.jpg')",
+          backgroundImage: "url('https://github.com/GabrielDss2411/homemdearea/blob/main/image/bakground-b1.jpg?raw=true')",
           backgroundSize: "cover",
           backgroundPosition: "center"
         }}
