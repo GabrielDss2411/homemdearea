@@ -87,7 +87,7 @@ const FinalCTA = () => {
               A Apenas Um Clique de Distância
             </h2>
             <p className="text-xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Mais de 2.500 homens já transformaram suas vidas com este curso.{" "}
+              Mais de 3.000 pessoas já transformaram suas vidas com este curso.{" "}
               <strong className="text-white"> Não deixe esta oportunidade passar.</strong>
             </p>
           </div>

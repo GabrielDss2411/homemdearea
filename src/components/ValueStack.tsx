@@ -28,11 +28,12 @@ const ValueStack = () => {
                     <h3 className="font-bold text-offshore-navy text-lg">
                       Curso Completo de Homem de Área Offshore
                     </h3>
-                    <p className="text-gray-600 text-sm">8 módulos + 120h de conteúdo prático</p>
+                    <p className="text-gray-600 text-sm">15 módulos + 80h de conteúdo</p>
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy">R$ 1.500</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 1.500</div>
+                  <div className="text-sm text-green-600 font-semibold">R$ 997,00</div>
                 </div>
               </div>
 
@@ -42,13 +43,13 @@ const ValueStack = () => {
                   <CheckCircle className="w-6 h-6 text-green-500" />
                   <div>
                     <h3 className="font-bold text-offshore-navy text-lg">
-                      Certificação NR-33 (Espaços Confinados)
+                      Certificação NR-11 (Movimentação de Carga)
                     </h3>
                     <p className="text-gray-600 text-sm">Obrigatória para trabalhar offshore</p>
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 800</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 300</div>
                   <div className="text-sm text-green-600 font-semibold">GRÁTIS</div>
                 </div>
               </div>
@@ -58,13 +59,13 @@ const ValueStack = () => {
                   <CheckCircle className="w-6 h-6 text-green-500" />
                   <div>
                     <h3 className="font-bold text-offshore-navy text-lg">
-                      Certificação NR-35 (Trabalho em Altura)
+                      Certificação NR-33 (Espaços Confinados)
                     </h3>
                     <p className="text-gray-600 text-sm">Essencial para atividades em plataformas</p>
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 700</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 300</div>
                   <div className="text-sm text-green-600 font-semibold">GRÁTIS</div>
                 </div>
               </div>
@@ -74,13 +75,13 @@ const ValueStack = () => {
                   <CheckCircle className="w-6 h-6 text-green-500" />
                   <div>
                     <h3 className="font-bold text-offshore-navy text-lg">
-                      Certificação NR-10 (Segurança Elétrica)
+                       Certificação NR-35 (Trabalho em Altura)
                     </h3>
                     <p className="text-gray-600 text-sm">Fundamental para operações elétricas</p>
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 600</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 300</div>
                   <div className="text-sm text-green-600 font-semibold">GRÁTIS</div>
                 </div>
               </div>
@@ -91,13 +92,13 @@ const ValueStack = () => {
                   <CheckCircle className="w-6 h-6 text-green-500" />
                   <div>
                     <h3 className="font-bold text-offshore-navy text-lg">
-                      Manual Completo de Preparação para Exames
+                      EBook Completo Utilização da ProfessorAI
                     </h3>
-                    <p className="text-gray-600 text-sm">Médicos e psicotécnicos</p>
+                    <p className="text-gray-600 text-sm">Tutoria & Suporte</p>
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 300</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 100</div>
                   <div className="text-sm text-green-600 font-semibold">GRÁTIS</div>
                 </div>
               </div>
@@ -113,7 +114,7 @@ const ValueStack = () => {
                   </div>
                 </div>
                 <div className="text-right">
-                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 500</div>
+                  <div className="text-lg font-bold text-offshore-navy line-through text-gray-400">R$ 500</div> 
                   <div className="text-sm text-green-600 font-semibold">GRÁTIS</div>
                 </div>
               </div>
@@ -127,7 +128,7 @@ const ValueStack = () => {
                   <p className="text-gray-600 text-sm">Se você comprasse tudo separadamente</p>
                 </div>
                 <div className="text-right">
-                  <div className="text-2xl font-bold text-gray-400 line-through">R$ 4.400</div>
+                  <div className="text-2xl font-bold text-gray-400 line-through">R$ 3.000</div>
                 </div>
               </div>
             </div>
@@ -140,8 +141,8 @@ const ValueStack = () => {
               Oferta Especial Para Esta Turma
             </h3>
             <div className="mb-6">
-              <div className="text-5xl font-bold mb-2">R$ 997</div>
-              <div className="text-lg opacity-90">À vista ou em até 12x de R$ 94,70</div>
+              <div className="text-5xl font-bold mb-2">R$ 997,00</div>
+              <div className="text-lg opacity-90">À vista ou em até 12x de R$ 83,08</div>
             </div>
             
             <div className="bg-white/20 rounded-lg p-4 mb-6">

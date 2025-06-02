@@ -43,13 +43,12 @@ const Hero = ({ onCtaClick }: HeroProps) => {
             <span className="text-offshore-orange">TRANSFORME</span> Sua Vida em
             <br />
             <span className="bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-              120 Dias no Mar
+              apenas 60 dias
             </span>
           </h1>
 
           <p className="text-xl md:text-2xl mb-8 text-gray-300 leading-relaxed max-w-3xl mx-auto">
-            O único curso que te prepara <strong className="text-white">COMPLETAMENTE</strong> para conquistar sua vaga como 
-            <strong className="text-offshore-orange"> Homem de Área</strong> - mesmo sem experiência anterior
+            O <strong className="text-white">primeiro curso do Brasil para Homem de Área (Roustabout)</strong> com apoio de <strong className="text-white">Inteligência Artificial</strong> , criado para te preparar completamente e garantir sua vaga no setor offshore. 
           </p>
           <Button 
             onClick={onCtaClick}

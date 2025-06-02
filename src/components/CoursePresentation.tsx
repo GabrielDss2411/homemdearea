@@ -14,14 +14,11 @@ const CoursePresentation = () => {
             </div>
             
             <h2 className="text-3xl md:text-4xl font-bold text-offshore-navy mb-6">
-              Conheça o <span className="text-offshore-orange">Curso de Homem de Área</span>
-              <br />
-              Que já transformou mais de 3.000 Vidas
+              Conheça o curso que irá <span className="text-offshore-orange">transformar vidas</span>
             </h2>
             
             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Este não é apenas mais um curso. É o <strong>sistema completo e testado</strong> que 
-              ensina exatamente como conquistar sua vaga no mercado offshore, mesmo sem experiência anterior.
+              Este não é apenas mais um curso. É o primeiro curso que unirá professores Altamente qualificados à Tecnologia de Inteligência Artificial uma fusão Físico-Digital (Fígital).
             </p>
           </div>
 
@@ -31,7 +28,15 @@ const CoursePresentation = () => {
               <h3 className="text-2xl font-bold text-offshore-navy">
                 O Que Torna Este Curso <span className="text-offshore-orange">Único</span>?
               </h3>
-              
+              <div className="flex items-start gap-4">
+                  <CheckCircle className="w-6 h-6 text-green-500 mt-1 flex-shrink-0" />
+                  <div>
+                    <h4 className="font-semibold text-offshore-navy">Mentoria Personalizada com Inteligência Artificial</h4>
+                    <p className="text-gray-600 text-sm">
+                      Com a ProfessorAI, você tira dúvidas e avança com segurança
+                    </p>
+                  </div>
+                </div>
               <div className="space-y-4">
                 <div className="flex items-start gap-4">
                   <CheckCircle className="w-6 h-6 text-green-500 mt-1 flex-shrink-0" />
@@ -48,7 +53,7 @@ const CoursePresentation = () => {
                   <div>
                     <h4 className="font-semibold text-offshore-navy">Certificações Incluídas</h4>
                     <p className="text-gray-600 text-sm">
-                      NR-33, NR-35 e NR-10 já incluídas (valor de R$ 2.100 GRÁTIS)
+                      NR-11, NR-33 e NR-15 já incluídas (valor de R$ 900,00 GRÁTIS)
                     </p>
                   </div>
                 </div>
@@ -72,6 +77,7 @@ const CoursePresentation = () => {
                     </p>
                   </div>
                 </div>
+                
               </div>
             </div>
 
@@ -95,14 +101,14 @@ const CoursePresentation = () => {
             <div className="grid md:grid-cols-4 gap-8 text-center">
               <div className="space-y-2">
                 <Clock className="w-8 h-8 text-offshore-orange mx-auto" />
-                <div className="text-2xl font-bold text-offshore-navy">120h</div>
-                <div className="text-sm text-gray-600">Conteúdo prático</div>
+                <div className="text-2xl font-bold text-offshore-navy">80h</div>
+                <div className="text-sm text-gray-600">Conteúdo</div>
               </div>
 
               <div className="space-y-2">
                 <Book className="w-8 h-8 text-offshore-orange mx-auto" />
-                <div className="text-2xl font-bold text-offshore-navy">8</div>
-                <div className="text-sm text-gray-600">Módulos completos</div>
+                <div className="text-2xl font-bold text-offshore-navy">15</div>
+                <div className="text-sm text-gray-600">Módulos teóricos</div>
               </div>
 
               <div className="space-y-2">

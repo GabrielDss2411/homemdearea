@@ -76,50 +76,56 @@ const SocialProof = () => {
           <div className="bg-white/5 rounded-xl p-8 border border-white/10">
             <div className="grid lg:grid-cols-2 gap-8 items-center">
               <div>
-                <h3 className="text-2xl font-bold mb-4">
-                  <span className="text-offshore-orange">Ivan Instrutor</span>
-                  <br />
-                  Seu professor principal
-                </h3>
+                <h1 className="text-2xl font-bold mb-4">
+                  <span className="text-offshore-orange">MetaSystem</span>
+                </h1>
                 
                 <div className="space-y-3 text-gray-300">
+
                   <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Militar Reformado</span>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Presidente da Associação de Marítimos e Offshore do Brasil (AMOB)</span>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Diretor da MetaSystem</span>
-                  </div>
-                   <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Tecnólogo em Segurança no Trabalho</span>
-                  </div>
-                   <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Empresário</span>
-                  </div>
-                  <div className="flex items-center gap-3">
-                    <div className="w-2 h-2 bg-offshore-orange rounded-full"></div>
-                    <span>Responsável por treinar +3.000 profissionais marítimos e offshore</span>
+                    <div className="w-2 h-2 rounded-full"></div>
+                    <span className="text-justify">A MetaSystem, antes System Offshore, traz mais de uma década de excelência em treinamentos marítimos, agora potencializada por tecnologias como Metaverso, Inteligência Artificial e Realidade Virtual. Com mais de 3.800 profissionais formados, revolucionamos a capacitação com experiências imersivas, seguras e gamificadas.<br /><br />
+
+                    Nosso compromisso é democratizar o acesso à educação de qualidade, utilizando celulares e metodologias inovadoras para alcançar até as regiões mais remotas. Estamos criando o primeiro Metaverso Marítimo Offshore do Brasil e o futuro começa aqui.</span>
                   </div>
                 </div>
               </div>
 
               <div className="relative">
                 <img 
-                  src="https://github.com/GabrielDss2411/homemdearea/blob/main/image/ivan2.jpeg?raw=true" 
+                  src="https://github.com/GabrielDss2411/metasystem/blob/main/logo/logo.png?raw=true" 
                   alt="Ivan Instrutor"
-                  className="rounded-lg w-full opacity-90"
+                  className="rounded-lg w-full opacity-90 bg-white"
                 />
                 <div className="absolute bottom-4 left-4 bg-offshore-orange text-white px-3 py-1 rounded text-sm font-semibold">
                   +3.000 Alunos Formados
                 </div>
               </div>
+              
+              <div className="relative">
+                <img 
+                  src="/image/amob.png" 
+                  alt="Ivan Instrutor"
+                  className="rounded-lg w-full opacity-90 bg-white"
+                />
+               
+              </div>
+              <div>
+                <h1 className="text-2xl font-bold mb-4">
+                  <span className="text-offshore-orange">Associação de Marítimos e Offshore do Brasil  (AMOB)</span>
+                </h1>
+                
+                <div className="space-y-3 text-gray-300">
+
+                  <div className="flex items-center gap-3">
+                    <div className="w-2 h-2 rounded-full text-align:justify"></div>
+                    <span className="text-justify">A AMOB é uma sociedade técnico-científica sem fins lucrativos dedicada ao desenvolvimento e à valorização dos profissionais do setor marítimo e offshore. Atuamos promovendo formação técnica, inclusão social e representatividade, tanto no Brasil quanto no exterior, sempre com foco no crescimento coletivo e na excelência do setor aquaviário.<br /><br />
+
+                    Oferecemos aos nossos associados benefícios como assessoria jurídica gratuita, serviços de despachante especializado, treinamentos, desenvolvimento de carreira e acesso a uma rede colaborativa de networking e conhecimento. Nosso compromisso é fomentar a qualificação, a segurança e a inovação por meio de iniciativas que transformam vidas e fortalecem toda a comunidade marítima e offshore.</span>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
 

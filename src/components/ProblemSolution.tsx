@@ -36,10 +36,10 @@ const ProblemSolution = () => {
               <div className="bg-red-50 border-l-4 border-red-500 p-4 rounded">
                 <h4 className="font-semibold text-red-700 mb-2">A Realidade Cruel:</h4>
                 <ul className="text-red-600 space-y-1 text-sm">
-                  <li>• 87% dos candidatos são rejeitados por falta de qualificação</li>
-                  <li>• Cursos básicos não preparam para a realidade offshore</li>
-                  <li>• Empresas contratam apenas quem tem certificação completa</li>
-                  <li>• Processo seletivo elimina quem não conhece as NRs</li>
+                  <li>• 87% dos candidatos são rejeitados por falta de qualificação;</li>
+                  <li>• Cursos básicos não preparam para a realidade offshore;</li>
+                  <li>• Empresas contratam apenas quem tem certificação completa; e</li>
+                  <li>• Processo seletivo elimina quem não têm as NRs.</li>
                 </ul>
               </div>
             </div>
@@ -70,7 +70,7 @@ const ProblemSolution = () => {
                 </div>
                 <h4 className="font-bold text-lg">Certificação Completa</h4>
                 <p className="text-gray-300 text-sm">
-                  Todas as NRs obrigatórias (33, 35 e 10) incluídas no curso
+                  Normas Regulamentadoras, óleo e gás e outras
                 </p>
               </div>
 
@@ -90,7 +90,7 @@ const ProblemSolution = () => {
                 </div>
                 <h4 className="font-bold text-lg">Preparação Total</h4>
                 <p className="text-gray-300 text-sm">
-                  Desde os exames até a rotina de trabalho no mar
+                  Rotinas de Trabalho no mar
                 </p>
               </div>
             </div>
@@ -104,7 +104,7 @@ const ProblemSolution = () => {
             </h3>
             <div className="grid md:grid-cols-3 gap-8 mt-8">
               <div className="bg-gray-50 p-6 rounded-lg">
-                <div className="text-3xl font-bold text-offshore-orange mb-2">R$ 8.500</div>
+                <div className="text-3xl font-bold text-offshore-orange mb-2">R$ 3.500</div>
                 <div className="text-sm text-gray-600">Salário médio inicial</div>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
@@ -113,7 +113,7 @@ const ProblemSolution = () => {
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">
                 <div className="text-3xl font-bold text-offshore-orange mb-2">+3.000</div>
-                <div className="text-sm text-gray-600">Vagas abertas/ano</div>
+                <div className="text-sm text-gray-600">Vagas abertas/2025</div>
               </div>
             </div>
           </div>

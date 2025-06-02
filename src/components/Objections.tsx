@@ -5,11 +5,11 @@ const Objections = () => {
   const objections = [
     {
       question: "\"Não tenho experiência, será que vou conseguir?\"",
-      answer: "Nosso curso foi desenvolvido especificamente para iniciantes. 87% dos nossos alunos também não tinham experiência e hoje trabalham offshore. O conteúdo é progressivo e você terá suporte total durante todo o processo."
+      answer: "Nosso curso foi desenvolvido especialmente para adultos que desejam iniciar uma nova carreira no Mar, mesmo sem nenhuma experiência prévia, 87% dos nossos alunos também começaram do zero — e hoje atuam com sucesso no setor marítimo.Você vai aprender de forma progressiva, no seu ritmo, com apoio total de nossa Inteligencia artificial."
     },
     {
       question: "\"E se eu não conseguir embarcar depois do curso?\"",
-      answer: "Nossa taxa de colocação é de 85% em até 60 dias após a conclusão. Oferecemos suporte contínuo via WhatsApp e orientação sobre processo seletivo até você conseguir sua primeira vaga."
+      answer: "Nossa taxa de colocação é de 85% em até 90 dias após a conclusão. Oferecemos suporte por meio parceiros que orientam sobre processos seletivos até você conseguir sua primeira vaga."
     },
     {
       question: "\"Quando a turma vai começar?\"",
@@ -89,7 +89,7 @@ const Objections = () => {
                 </div>
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-green-500 rounded-full"></div>
-                  <span>Instrutor com 15 anos de experiência offshore</span>
+                  <span>Instrutores com 19 anos de experiência offshore</span>
                 </div>
               </div>
             </div>
