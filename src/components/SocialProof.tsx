@@ -104,7 +104,7 @@ const SocialProof = () => {
               
               <div className="relative">
                 <img 
-                  src="/image/amob.png" 
+                  src="https://github.com/GabrielDss2411/homemdearea/blob/main/image/amob.png?raw=true" 
                   alt="Ivan Instrutor"
                   className="rounded-lg w-full opacity-90 bg-white"
                 />
