@@ -3,25 +3,25 @@ import { Quote, Star, Award } from "lucide-react";
 const SocialProof = () => {
   const testimonials = [
     {
-      name: "Rogério 'Maninho'",
-      role: "Soldador Offshore - Petrobras",
-      content: "Estava desempregado há 8 meses. Depois do curso, consegui minha vaga em 45 dias. Hoje ganho R$ 12.000 por mês trabalhando offshore.",
+      name: "Octyl",
+      role: "",
+      content: "Essa experiência mudou minha postura completamente. Não foi só aprendizado, foi transformação real. Saí mais consciente, mais firme, mais preparado.",
       rating: 5,
-      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/maninho.jpg?raw=true"
+      image: "/image/octyl.png"
     },
     {
-      name: "Julio 'Julinho'",
-      role: "Técnico de Segurança - BW Offshore",
-      content: "O curso me deu toda base que eu precisava. As certificações incluídas foram fundamentais. Recomendo para quem quer mudar de vida.",
+      name: "André Silva",
+      role: "",
+      content: "Aqui não tem espaço pra teoria vazia. A prática é intensa, a pressão é real e cada detalhe simula o que vamos enfrentar lá fora. Me senti testado e, acima de tudo, evoluído.",
       rating: 5,
-      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/julio.jpg?raw=true"
+      image: "/image/andré.png"
     },
     {
-      name: "Sidney Ricardo 'Trovão'",
-      role: "Operador de Plataforma - Equinor",
-      content: "Sem experiência nenhuma no mar, hoje sou operador em uma das maiores empresas do setor. O curso realmente funciona!",
+      name: "Nelson",
+      role: "",
+      content: "A metodologia da Metasystem vai além do ensino. Eles te entregam clareza, exigem responsabilidade e te desafiam a subir de nível. Saí enxergando o mundo com outra mentalidade.",
       rating: 5,
-      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/trovao.png?raw=true"
+      image: "/image/nelson.png"
     }
   ];
 

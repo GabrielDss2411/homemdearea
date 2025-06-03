@@ -18,7 +18,7 @@ const CoursePresentation = () => {
             </h2>
             
             <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Este não é apenas mais um curso. É o primeiro curso que unirá professores Altamente qualificados à Tecnologia de Inteligência Artificial uma fusão Físico-Digital (Fígital).
+              Este não é apenas mais um curso de qualificação. É o primeiro que unirá instrutores de alta qualificação e vasta experiência à tecnologia da Inteligência Artificial (IA). Uma fusão Físico-Digital ou, neologicamente falando, uma fusão Fígital.
             </p>
           </div>
 
@@ -53,7 +53,7 @@ const CoursePresentation = () => {
                   <div>
                     <h4 className="font-semibold text-offshore-navy">Certificações Incluídas</h4>
                     <p className="text-gray-600 text-sm">
-                      NR-11, NR-33 e NR-15 já incluídas (valor de R$ 900,00 GRÁTIS)
+                      NR-11, NR-33 e NR-35 já incluídas (valor de R$ 900,00 GRÁTIS)
                     </p>
                   </div>
                 </div>
@@ -63,7 +63,7 @@ const CoursePresentation = () => {
                   <div>
                     <h4 className="font-semibold text-offshore-navy">Preparação Completa</h4>
                     <p className="text-gray-600 text-sm">
-                      Desde exames médicos até adaptação à vida no mar
+                      Adaptação à vida no mar
                     </p>
                   </div>
                 </div>
