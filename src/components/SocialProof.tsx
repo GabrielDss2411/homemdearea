@@ -7,21 +7,21 @@ const SocialProof = () => {
       role: "",
       content: "Essa experiência mudou minha postura completamente. Não foi só aprendizado, foi transformação real. Saí mais consciente, mais firme, mais preparado.",
       rating: 5,
-      image: "/image/octyl.png"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/octyl.png?raw=true"
     },
     {
       name: "André Silva",
       role: "",
       content: "Aqui não tem espaço pra teoria vazia. A prática é intensa, a pressão é real e cada detalhe simula o que vamos enfrentar lá fora. Me senti testado e, acima de tudo, evoluído.",
       rating: 5,
-      image: "/image/andré.png"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/andr%C3%A9.png?raw=true"
     },
     {
       name: "Nelson",
       role: "",
       content: "A metodologia da Metasystem vai além do ensino. Eles te entregam clareza, exigem responsabilidade e te desafiam a subir de nível. Saí enxergando o mundo com outra mentalidade.",
       rating: 5,
-      image: "/image/nelson.png"
+      image: "https://github.com/GabrielDss2411/homemdearea/blob/main/image/nelson.png?raw=true"
     }
   ];
 
