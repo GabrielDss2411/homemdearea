@@ -142,7 +142,7 @@ const ValueStack = () => {
             </h3>
             <div className="mb-6">
               <div className="text-5xl font-bold mb-2">R$ 997,00</div>
-              <div className="text-lg opacity-90">À vista ou em até 12x de R$ 83,08</div>
+              <div className="text-lg opacity-90">À vista ou em até 10x</div>
             </div>
             
             <div className="bg-white/20 rounded-lg p-4 mb-6">
