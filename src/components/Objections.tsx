@@ -13,7 +13,7 @@ const Objections = () => {
     },
     {
       question: "\"Quando a turma vai começar?\"",
-      answer: "O curso inicia assim que a turma de 30 alunos for completada. Isso garante atenção personalizada para cada aluno. Quanto antes você se inscrever, mais rapidamente a turma fecha e inicia."
+      answer: "O curso inicia assim que a turma de 30 alunos for completada. Isso garante atenção personalizada para cada aluno. O curso é presencial e acontece ao longo de 3 sábados."
     },
     {
       question: "\"Vale a pena investir sem garantia?\"",
